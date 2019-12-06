@@ -11,18 +11,23 @@
 
 // This file will include dynamically generated process layout related data from 
 // the publishing service 
-contentPage.processPage.imageFiles["_tRVggRJCEeqEXKumhdXd8QActivity"]="./../../Generic Game Deveopment/deliveryprocesses/resources/Generic Game Deveopment_5D825BB2_5d825bb2_Activity.jpeg"
-contentPage.processPage.elementUrls["_04cb0BJCEeqEXKumhdXd8Q"] = ["Decidir estratégias de monetização","Generic Game Deveopment/deliveryprocesses/decidir_estratgias_de_monetizao_A0FE89AD.html"];
-contentPage.processPage.elementUrls["_yl0R4BJCEeqEXKumhdXd8Q"] = ["Desenvolvimento de conceito do jogo","Generic Game Deveopment/deliveryprocesses/desenvolvimento_de_conceito_do_jogo_D0FA2CBB.html"];
-contentPage.processPage.elementUrls["_2XzVwBJCEeqEXKumhdXd8Q"] = ["Suporte e manutenção","Generic Game Deveopment/deliveryprocesses/suporte_e_manuteno_238FE925.html"];
-contentPage.processPage.elementUrls["_vYL4QBJCEeqEXKumhdXd8Q"] = ["Criar uma ideia inovadora","Generic Game Deveopment/deliveryprocesses/criar_uma_ideia_inovadora_CE515F94.html"];
-contentPage.processPage.elementUrls["_vy3CEBJCEeqEXKumhdXd8Q"] = ["Criar a história do jogo","Generic Game Deveopment/deliveryprocesses/criar_a_histria_do_jogo_98C74148.html"];
-contentPage.processPage.elementUrls["_yl0R4RJCEeqEXKumhdXd8Q"] = ["Gerente","Generic Game Deveopment/deliveryprocesses/gerente_DB980CCB.html"];
-contentPage.processPage.elementUrls["_zGJ-0BJCEeqEXKumhdXd8Q"] = ["Criar o desing do jogo","Generic Game Deveopment/deliveryprocesses/criar_o_desing_do_jogo_3FEC87FA.html"];
-contentPage.processPage.elementUrls["_tRVggRJCEeqEXKumhdXd8Q"] = ["Generic Game Deveopment","Generic Game Deveopment/deliveryprocesses/Generic Game Deveopment_5D825BB2.html"];
-contentPage.processPage.elementUrls["_0FxowBJCEeqEXKumhdXd8Q"] = ["Implementação e teste","Generic Game Deveopment/deliveryprocesses/implementao_e_teste_7A230FF0.html"];
-contentPage.processPage.elementUrls["_0FxowRJCEeqEXKumhdXd8Q"] = ["Desenvolvedor","Generic Game Deveopment/deliveryprocesses/desenvolvedor_84C0F000.html"];
-contentPage.processPage.elementUrls["_0FxowxJCEeqEXKumhdXd8Q"] = ["Testador","Generic Game Deveopment/deliveryprocesses/testador_7DF7E426.html"];
-contentPage.processPage.elementUrls["_1uO0UBJCEeqEXKumhdXd8Q"] = ["Lançamento do jogo","Generic Game Deveopment/deliveryprocesses/lanamento_do_jogo_7F84716A.html"];
-contentPage.processPage.elementUrls["_vy3CERJCEeqEXKumhdXd8Q"] = ["Criador de histórias","Generic Game Deveopment/deliveryprocesses/criador_de_histrias_A3652158.html"];
-contentPage.processPage.elementUrls["_vy3CExJCEeqEXKumhdXd8Q"] = ["Desing","Generic Game Deveopment/deliveryprocesses/desing_9C9C157E.html"];
+contentPage.processPage.imageFiles["_p5qsgRhVEeqyMe-bVlhpkgActivity"]="./../../Generic Game Development/deliveryprocesses/resources/Generic Game Development_354E3E2E_354e3e2e_Activity.jpeg"
+contentPage.processPage.elementUrls["_sHq1JRhVEeqyMe-bVlhpkg"] = ["Versão beta do jogo","Generic Game Development/deliveryprocesses/verso_beta_do_jogo_6DC5D559.html"];
+contentPage.processPage.elementUrls["_r5NiYBhVEeqyMe-bVlhpkg"] = ["criar história do jogo","Generic Game Development/deliveryprocesses/criar_histria_do_jogo_C3F95523.html"];
+contentPage.processPage.elementUrls["_r5NiYRhVEeqyMe-bVlhpkg"] = ["Autor da história do jogo","Generic Game Development/deliveryprocesses/autor_da_histria_do_jogo_CE973533.html"];
+contentPage.processPage.elementUrls["_rl16dhhVEeqyMe-bVlhpkg"] = ["protótipo do desing do jogo","Generic Game Development/deliveryprocesses/prottipo_do_desing_do_jogo_AE0AFD1F.html"];
+contentPage.processPage.elementUrls["_sHX6MxhVEeqyMe-bVlhpkg"] = ["Desenvolvedor","Generic Game Development/deliveryprocesses/desenvolvedor_1A38695A.html"];
+contentPage.processPage.elementUrls["_sHX6NRhVEeqyMe-bVlhpkg"] = ["Testador","Generic Game Development/deliveryprocesses/testador_E5935753.html"];
+contentPage.processPage.elementUrls["_rl16dBhVEeqyMe-bVlhpkg"] = ["Documento da visão geral do conceito do jogo","Generic Game Development/deliveryprocesses/documento_da_viso_geral_do_conceito_do_jogo_B4D408F9.html"];
+contentPage.processPage.elementUrls["_rli_gBhVEeqyMe-bVlhpkg"] = ["Criar desing do jogo","Generic Game Development/deliveryprocesses/criar_desing_do_jogo_9E3A3C07.html"];
+contentPage.processPage.elementUrls["_sy4VUBhVEeqyMe-bVlhpkg"] = ["Implementação e teste","Generic Game Development/deliveryprocesses/implementao_e_teste_C6C3B691.html"];
+contentPage.processPage.elementUrls["_sHq1IhhVEeqyMe-bVlhpkg"] = ["Jogo completo","Generic Game Development/deliveryprocesses/jogo_completo_97CD0750.html"];
+contentPage.processPage.elementUrls["_rl16cBhVEeqyMe-bVlhpkg"] = ["Desing","Generic Game Development/deliveryprocesses/desing_F04226DA.html"];
+contentPage.processPage.elementUrls["_sXwfkBhVEeqyMe-bVlhpkg"] = ["Decidir estrategias de monetização","Generic Game Development/deliveryprocesses/decidir_estrategias_de_monetizao_8596B687.html"];
+contentPage.processPage.elementUrls["_rl16chhVEeqyMe-bVlhpkg"] = ["Documento da história do jogo","Generic Game Development/deliveryprocesses/documento_da_histria_do_jogo_E9791B00.html"];
+contentPage.processPage.elementUrls["_sHX6MBhVEeqyMe-bVlhpkg"] = ["Criar uma ideia inovadora","Generic Game Development/deliveryprocesses/criar_uma_ideia_inovadora_16639524.html"];
+contentPage.processPage.elementUrls["_smEBUBhVEeqyMe-bVlhpkg"] = ["Desenvolvimento de conceito do jogo","Generic Game Development/deliveryprocesses/desenvolvimento_de_conceito_do_jogo_8007CDC0.html"];
+contentPage.processPage.elementUrls["_tASfMBhVEeqyMe-bVlhpkg"] = ["Lançamento do jogo","Generic Game Development/deliveryprocesses/lanamento_do_jogo_4E83BD91.html"];
+contentPage.processPage.elementUrls["_sHX6MRhVEeqyMe-bVlhpkg"] = ["Gerente","Generic Game Development/deliveryprocesses/gerente_21017534.html"];
+contentPage.processPage.elementUrls["_tMqHQBhVEeqyMe-bVlhpkg"] = ["Suporte e manutenção","Generic Game Development/deliveryprocesses/suporte_e_manuteno_2F6729D.html"];
+contentPage.processPage.elementUrls["_p5qsgRhVEeqyMe-bVlhpkg"] = ["Generic Game Development","Generic Game Development/deliveryprocesses/Generic Game Development_354E3E2E.html"];

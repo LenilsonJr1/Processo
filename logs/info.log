@@ -1,34 +1,46 @@
-Info: : 1979 mini-second(s) publishing element DeliveryProcess:Generic Game Deveopment[Generic Game Deveopment\deliveryprocesses\Generic Game Deveopment_5D825BB2.html]
-Info: DeliveryProcess:Generic Game Deveopment: 1981 mini seconds publishing element
-Info: DeliveryProcess:Generic Game Deveopment: 224 mini seconds publishing process specific layout data
-Info: Task:criar_uma_ideia_inovadora: 90 mini seconds publishing element
-Info: TaskDescriptor:criar_uma_ideia_inovadora: 30 mini seconds publishing element
-Info: Role:criador_de_histrias: 341 mini seconds publishing element
-Info: RoleDescriptor:criador_de_histrias: 42 mini seconds publishing element
-Info: Role:desenvolvedor: 123 mini seconds publishing element
-Info: RoleDescriptor:desenvolvedor: 35 mini seconds publishing element
-Info: Role:desing: 225 mini seconds publishing element
-Info: RoleDescriptor:desing: 39 mini seconds publishing element
-Info: Role:gerente: 116 mini seconds publishing element
-Info: RoleDescriptor:gerente: 32 mini seconds publishing element
-Info: Role:testador: 143 mini seconds publishing element
-Info: RoleDescriptor:testador: 82 mini seconds publishing element
-Info: Task:criar_a_histria_do_jogo: 60 mini seconds publishing element
-Info: TaskDescriptor:criar_a_histria_do_jogo: 16 mini seconds publishing element
-Info: Task:desenvolvimento_de_conceito_do_jogo: 60 mini seconds publishing element
-Info: TaskDescriptor:desenvolvimento_de_conceito_do_jogo: 24 mini seconds publishing element
-Info: Task:criar_o_desing_do_jogo: 70 mini seconds publishing element
-Info: TaskDescriptor:criar_o_desing_do_jogo: 23 mini seconds publishing element
-Info: Task:implementao_e_teste: 59 mini seconds publishing element
-Info: TaskDescriptor:implementao_e_teste: 24 mini seconds publishing element
-Info: Task:decidir_estratgias_de_monetizao: 66 mini seconds publishing element
-Info: TaskDescriptor:decidir_estratgias_de_monetizao: 28 mini seconds publishing element
-Info: Task:lanamento_do_jogo: 62 mini seconds publishing element
-Info: TaskDescriptor:lanamento_do_jogo: 17 mini seconds publishing element
-Info: Task:suporte_e_manuteno: 66 mini seconds publishing element
-Info: TaskDescriptor:suporte_e_manuteno: 22 mini seconds publishing element
-Info: CustomCategory:Configuration free process view: 224 mini seconds publishing element
-Info: CustomCategory:Tasks: 45 mini seconds publishing element
-Info: CustomCategory:Roles: 27 mini seconds publishing element
-Info: CustomCategory:Processes: 28 mini seconds publishing element
-Info: : Publishing time: 0 minutes 12 seconds
+Info: : 4424 mini-second(s) publishing element DeliveryProcess:Generic Game Development[Generic Game Development\deliveryprocesses\Generic Game Development_354E3E2E.html]
+Info: DeliveryProcess:Generic Game Development: 4424 mini seconds publishing element
+Info: DeliveryProcess:Generic Game Development: 203 mini seconds publishing process specific layout data
+Info: Task:criar_desing_do_jogo: 453 mini seconds publishing element
+Info: TaskDescriptor:criar_desing_do_jogo: 375 mini seconds publishing element
+Info: : 1907 mini-second(s) publishing element Role:desing[Generic Game Development\roles\desing_DAD72480.html]
+Info: Role:desing: 1922 mini seconds publishing element
+Info: RoleDescriptor:desing: 500 mini seconds publishing element
+Info: Artifact:documento_da_histria_do_jogo: 500 mini seconds publishing element
+Info: WorkProductDescriptor:documento_da_histria_do_jogo: 469 mini seconds publishing element
+Info: Artifact:documento_da_viso_geral_do_conceito_do_jogo: 47 mini seconds publishing element
+Info: WorkProductDescriptor:documento_da_viso_geral_do_conceito_do_jogo: 109 mini seconds publishing element
+Info: Artifact:prottipo_do_desing_do_jogo: 47 mini seconds publishing element
+Info: WorkProductDescriptor:prottipo_do_desing_do_jogo: 156 mini seconds publishing element
+Info: Task:criar_histria_do_jogo: 31 mini seconds publishing element
+Info: TaskDescriptor:criar_histria_do_jogo: 79 mini seconds publishing element
+Info: Role:autor_da_histria_do_jogo: 171 mini seconds publishing element
+Info: RoleDescriptor:autor_da_histria_do_jogo: 79 mini seconds publishing element
+Info: Task:criar_uma_ideia_inovadora: 109 mini seconds publishing element
+Info: TaskDescriptor:criar_uma_ideia_inovadora: 62 mini seconds publishing element
+Info: Role:gerente: 109 mini seconds publishing element
+Info: RoleDescriptor:gerente: 125 mini seconds publishing element
+Info: Role:desenvolvedor: 125 mini seconds publishing element
+Info: RoleDescriptor:desenvolvedor: 94 mini seconds publishing element
+Info: Role:testador: 94 mini seconds publishing element
+Info: RoleDescriptor:testador: 218 mini seconds publishing element
+Info: Task:decidir_estrategias_de_monetizao: 32 mini seconds publishing element
+Info: TaskDescriptor:decidir_estrategias_de_monetizao: 62 mini seconds publishing element
+Info: Task:desenvolvimento_de_conceito_do_jogo: 31 mini seconds publishing element
+Info: TaskDescriptor:desenvolvimento_de_conceito_do_jogo: 78 mini seconds publishing element
+Info: Task:implementao_e_teste: 32 mini seconds publishing element
+Info: TaskDescriptor:implementao_e_teste: 62 mini seconds publishing element
+Info: Artifact:verso_beta_do_jogo: 78 mini seconds publishing element
+Info: WorkProductDescriptor:verso_beta_do_jogo: 94 mini seconds publishing element
+Info: Task:lanamento_do_jogo: 31 mini seconds publishing element
+Info: TaskDescriptor:lanamento_do_jogo: 94 mini seconds publishing element
+Info: Artifact:jogo_completo: 125 mini seconds publishing element
+Info: WorkProductDescriptor:jogo_completo: 62 mini seconds publishing element
+Info: Task:suporte_e_manuteno: 31 mini seconds publishing element
+Info: TaskDescriptor:suporte_e_manuteno: 63 mini seconds publishing element
+Info: CustomCategory:Configuration free process view: 469 mini seconds publishing element
+Info: CustomCategory:Tasks: 47 mini seconds publishing element
+Info: CustomCategory:Roles: 31 mini seconds publishing element
+Info: CustomCategory:Work Products: 31 mini seconds publishing element
+Info: CustomCategory:Processes: 31 mini seconds publishing element
+Info: : Publishing time: 0 minutes 17 seconds
